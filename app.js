@@ -5,8 +5,8 @@
   3. Run supabase_schema.sql in Supabase SQL Editor.
   Never put a Supabase service_role key in browser code.
 */
-const SUPABASE_URL = "https://YOUR_PROJECT_ID.supabase.co";
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
+const SUPABASE_URL = "https://mhiquhyhckvozfiewhek.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_MiCYOa31iyZbJrmgCMeQBQ_uhXcO6Oj";
 
 const configured = SUPABASE_URL.startsWith("https://") &&
   !SUPABASE_URL.includes("YOUR_PROJECT_ID") &&
